@@ -1,0 +1,13 @@
+PODS:
+  - LFHeatMap (1.0.2)
+  - SwiftyJSON (2.2.0)
+
+DEPENDENCIES:
+  - LFHeatMap
+  - SwiftyJSON (~> 2.2.0)
+
+SPEC CHECKSUMS:
+  LFHeatMap: 433197b20e4d57a9502bc2a2a21300fa851ff3c6
+  SwiftyJSON: 0b3e6c07af17ff745e77e8e9984097b55c956e5c
+
+COCOAPODS: 0.37.2
